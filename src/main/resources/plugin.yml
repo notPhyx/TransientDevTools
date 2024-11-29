@@ -1,0 +1,4 @@
+name: TransientDevTools
+version: '1.0-indev'
+main: gg.kpjm.transientDevTools.TransientDevTools
+api-version: '1.21'
